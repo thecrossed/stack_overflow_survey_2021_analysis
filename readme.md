@@ -10,6 +10,6 @@ Questions to ask
 #Summary of analysis
 
 #Acknowledgement
-
+Massive and heartful thanks to Stack Overflow community[link](https://insights.stackoverflow.com/survey) and all the survey participants for the hard work and the spirit of sharing.
 
 #Others
